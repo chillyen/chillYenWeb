@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chillYenWeb/static/css/main.566945b5.css",
-    "main.js": "/chillYenWeb/static/js/main.fb31723e.js",
+    "main.js": "/chillYenWeb/static/js/main.898455be.js",
     "static/js/787.fb771931.chunk.js": "/chillYenWeb/static/js/787.fb771931.chunk.js",
     "static/media/MR Acupuncture Navigation(1).gif": "/chillYenWeb/static/media/MR Acupuncture Navigation(1).401cc4c74469d46c50fd.gif",
     "static/media/Smart Contract.gif": "/chillYenWeb/static/media/Smart Contract.e8ebdb75f117efc4b14c.gif",
@@ -29,11 +29,11 @@
     "static/media/nav-icon1.svg": "/chillYenWeb/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/chillYenWeb/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.566945b5.css.map": "/chillYenWeb/static/css/main.566945b5.css.map",
-    "main.fb31723e.js.map": "/chillYenWeb/static/js/main.fb31723e.js.map",
+    "main.898455be.js.map": "/chillYenWeb/static/js/main.898455be.js.map",
     "787.fb771931.chunk.js.map": "/chillYenWeb/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.566945b5.css",
-    "static/js/main.fb31723e.js"
+    "static/js/main.898455be.js"
   ]
 }
