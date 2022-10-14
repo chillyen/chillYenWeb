@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/chillYenWeb/static/css/main.566945b5.css",
+    "main.js": "/chillYenWeb/static/js/main.fb31723e.js",
+    "static/js/787.fb771931.chunk.js": "/chillYenWeb/static/js/787.fb771931.chunk.js",
+    "static/media/MR Acupuncture Navigation(1).gif": "/chillYenWeb/static/media/MR Acupuncture Navigation(1).401cc4c74469d46c50fd.gif",
+    "static/media/Smart Contract.gif": "/chillYenWeb/static/media/Smart Contract.e8ebdb75f117efc4b14c.gif",
+    "static/media/color-sharp.png": "/chillYenWeb/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/Home Router.gif": "/chillYenWeb/static/media/Home Router.09519f39bb34c41b85ca.gif",
+    "static/media/logo.svg": "/chillYenWeb/static/media/logo.5b82b6a36d4ff8de8251a7ad5dfca015.svg",
+    "static/media/color-sharp2.png": "/chillYenWeb/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/chillYenWeb/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/chillYenWeb/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/chillYenWeb/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/chillYenWeb/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/chillYenWeb/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/chillYenWeb/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/chillYenWeb/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/undraw_digital_currency_qpak.svg": "/chillYenWeb/static/media/undraw_digital_currency_qpak.e39abb2562f792af59ec400c5e4a19c9.svg",
+    "static/media/undraw_game_world_re_e44j.svg": "/chillYenWeb/static/media/undraw_game_world_re_e44j.1e7f49ac1dd9d7fee7cec4b96336ef72.svg",
+    "static/media/revicons.eot": "/chillYenWeb/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/chillYenWeb/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/undraw_safe_re_kiil.svg": "/chillYenWeb/static/media/undraw_safe_re_kiil.40bba99a04f8859635ea8e5ab9c3efbc.svg",
+    "static/media/revicons.woff": "/chillYenWeb/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/undraw_code_review_re_woeb.svg": "/chillYenWeb/static/media/undraw_code_review_re_woeb.9a9369197a851263b01c7190e698c46a.svg",
+    "static/media/undraw_server_cluster_jwwq.svg": "/chillYenWeb/static/media/undraw_server_cluster_jwwq.24d7618723d0824cf956cb91a31f2d27.svg",
+    "static/media/nav-icon3.svg": "/chillYenWeb/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/chillYenWeb/index.html",
+    "static/media/nav-icon1.svg": "/chillYenWeb/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/chillYenWeb/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.566945b5.css.map": "/chillYenWeb/static/css/main.566945b5.css.map",
+    "main.fb31723e.js.map": "/chillYenWeb/static/js/main.fb31723e.js.map",
+    "787.fb771931.chunk.js.map": "/chillYenWeb/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566945b5.css",
+    "static/js/main.fb31723e.js"
+  ]
+}
